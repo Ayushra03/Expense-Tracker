@@ -1,0 +1,23 @@
+.new-expense-controls{
+    align-self:self-start;
+    align-items:center;
+    display: flex;
+    flex-direction: column;
+    margin-bottom:5px;
+}
+.new-expense-control{
+    margin-bottom:50px;
+    font-size: larger;
+    color:aliceblue;
+    font-style:normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.new-expense-actions{
+    padding:5px;
+    color:cornsilk;
+    background-color: burlywood;
+    /* color:white; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:right;
+
+}

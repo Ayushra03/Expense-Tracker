@@ -1,0 +1,24 @@
+.expense-item-date{
+   
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    flex-direction: column;
+    
+
+}
+.expense-item-month{
+    font-size:0.75rem;
+    font-weight: bold;
+}
+.expense-item-year{
+    font-size:0.75rem;
+    font-weight: bold;
+
+}
+.expense-item-day{
+    font-size:2rem;
+    font-weight: bold;
+
+}
+
